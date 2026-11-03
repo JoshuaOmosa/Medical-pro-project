@@ -1,4 +1,5 @@
 # Medical-Pro
+Project lead: Mark Kinuthia
 
 Convert doctor-patient transcripts into structured SOAP notes using Godot 4 and Google's Gemini API.
 
